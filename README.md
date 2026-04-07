@@ -1,4 +1,4 @@
-# 🛡️ Asep Rizki Ramadhan
+no# 🛡️ Asep Rizki Ramadhan
 ### Independent Security Researcher | Student at ITB Semarang
 
 ---
@@ -44,12 +44,6 @@ Saya aktif berkontribusi melaporkan kerentanan secara etis kepada berbagai insta
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aseprizkir&theme=radical&area=true&hide_border=true&cache_seconds=1800" width="100%" alt="Asep's Activity Graph" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aseprizkir&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" width="49%" alt="Asep's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseprizkir&layout=compact&theme=radical&cache_seconds=1800" width="48%" alt="Top Langs" />
-</p>
-
 
 
 ---
