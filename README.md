@@ -28,7 +28,6 @@ Seorang mahasiswa yang memiliki ketertarikan pada bidang **Cybersecurity**. Foku
 #### ⚔️ Security & Hacking Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF2?style=for-the-badge&logo=kalilinux&logoColor=white) 
-![Metasploit](https://img.speeds.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit)
 ![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
 
 ---
@@ -41,14 +40,18 @@ Saya aktif berkontribusi melaporkan kerentanan secara etis kepada berbagai insta
 ---
 
 ### 📊 GitHub Stats
-![Asep's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseprizkir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseprizkir&layout=compact&theme=radical)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aseprizkir&show_icons=true&theme=radical&cache_seconds=1800" width="48%" alt="Asep's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseprizkir&layout=compact&theme=radical&cache_seconds=1800" width="48%" alt="Top Langs" />
+</p>
+
 
 ---
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aseprizki)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/riezkyas)
 
 ---
 > *"Hacking is not about the tools you use, it's about the logic you break."* 🚀
