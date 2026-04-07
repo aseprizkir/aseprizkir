@@ -1,4 +1,4 @@
-no# 🛡️ Asep Rizki Ramadhan
+# 🛡️ Asep Rizki Ramadhan
 ### Independent Security Researcher | Student at ITB Semarang
 
 ---
