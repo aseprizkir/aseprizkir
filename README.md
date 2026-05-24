@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-Seorang mahasiswa yang memiliki ketertarikan pada bidang **Cybersecurity**. Fokus utama saya adalah menganalisis logika aplikasi web, menemukan celah kritis, dan membantu pengembang untuk membangun sistem yang lebih aman melalui jalur *Responsible Disclosure*.
+Seorang mahasiswa yang memiliki ketertarikan pada bidang **Cybersecurity**. Fokus utama saya adalah menganalisis logika aplikasi web, menemukan celah pada web app, dan membantu pengembang untuk membangun sistem yang lebih aman melalui jalur *Responsible Disclosure*.
 
 - 🔭 Sedang mengerjakan: **SIAKADSEC Lab** (Vulnerable Web App for Education).
 - 🛡️ Minat: Web Pentesting, Bug Bounty, & Secure Coding.
