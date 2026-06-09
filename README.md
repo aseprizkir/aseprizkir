@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 Seorang mahasiswa yang memiliki ketertarikan pada bidang **Cybersecurity**. Fokus utama saya adalah menganalisis logika aplikasi web, menemukan celah pada web app, dan membantu pengembang untuk membangun sistem yang lebih aman melalui jalur *Responsible Disclosure*.
 
-- 🔭 Sedang mengerjakan: **SIAKADSEC Lab** (Vulnerable Web App for Education).
+- 🔭 Sedang mengerjakan: **SIAKADSEC Lab** (Vulnerable Web App for Education), **BOT SOCIAL MEDIA** (Tools Bot Untuk Akun Sosmed), 
 - 🛡️ Minat: Web Pentesting, Bug Bounty, & Secure Coding.
 - 🎓 Institusi: ITB Semarang.
 - 📑 Penulis di: [Kompasiana](https://www.kompasiana.com/aseprizki4578) (Edukasi Cybersec & Portfolio).
@@ -38,6 +38,10 @@ Saya aktif berkontribusi melaporkan kerentanan secara etis kepada berbagai insta
 - ✅ **SEVIMA** (Certificate Appreciation)
 - ✅ **APJI & LPKD** (Certificate Appreciation)
 - ✅ **KAB PURBALINGGA** (Certificate Appreciation)
+- ✅ **KAB WONOSOBO** (Certificate Appreciation)
+- ✅ **DAERAH ISTIMEWA YOGYAKARTA** (Certificate Appreciation)
+- ✅ **DKI JAKARTA** (Certificate Appreciation)
+- 
 
 ---
 
