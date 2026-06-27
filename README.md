@@ -33,7 +33,7 @@ Seorang mahasiswa yang memiliki ketertarikan pada bidang **Cybersecurity**. Foku
 ---
 
 ### 🏆 Acknowledgements
-Saya aktif berkontribusi melaporkan kerentanan secara etis kepada berbagai instansi seperti:
+Saya aktif berkontribusi melaporkan kerentanan secara etis & Mendapatkan Apresiasi dari berbagai instansi seperti:
 - ✅ **Suteki Tech** (Certificate Appreciation)
 - ✅ **SEVIMA** (Certificate Appreciation)
 - ✅ **LPKD** (Certificate Appreciation)
