@@ -58,7 +58,7 @@ Saya aktif berkontribusi melaporkan kerentanan secara etis & Mendapatkan Apresia
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/riezkyas)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rizkias_27)
 
 ---
 > *"Hacking is not about the tools you use, it's about the logic you break."* 🚀
