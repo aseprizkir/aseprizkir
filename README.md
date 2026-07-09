@@ -35,6 +35,7 @@ Seorang mahasiswa yang memiliki ketertarikan pada bidang **Cybersecurity**. Foku
 
 ### 🏆 Acknowledgements
 Saya aktif berkontribusi melaporkan kerentanan secara etis & Mendapatkan Apresiasi dari berbagai instansi seperti:
+- ✅ **UNESCO** (HALL OF FAME)
 - ✅ **Suteki Tech** (Certificate Appreciation)
 - ✅ **SEVIMA** (Certificate Appreciation)
 - ✅ **LPKD** (Certificate Appreciation)
@@ -44,7 +45,7 @@ Saya aktif berkontribusi melaporkan kerentanan secara etis & Mendapatkan Apresia
 - ✅ **DKI JAKARTA** (Certificate Appreciation)
 - ✅ **Universitas Amal Ilmiah YAPIS Wamena** (Certificate Appreciation)
 - ✅ **BANDUNG** (Certificate Appreciation ON GOING)
-- ✅ **UNESCO** (HALL OF FAME ON GOING)
+
 ---
 
 ### 📊 GitHub Activity & Stats
