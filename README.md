@@ -42,10 +42,12 @@ Saya aktif berkontribusi melaporkan kerentanan secara etis & Mendapatkan Apresia
 - ✅ **KAB PURBALINGGA** (Certificate Appreciation)
 - ✅ **KAB WONOSOBO** (Certificate Appreciation)
 - ✅ **DAERAH ISTIMEWA YOGYAKARTA** (Certificate Appreciation)
+- ✅ **KOTA BANDUNG** (Certificate Appreciation)
 - ✅ **DKI JAKARTA** (Certificate Appreciation)
+- ✅ **KEMENTRIAN PEKERJAAN UMUM** (Certificate Appreciation)
 - ✅ **Universitas Amal Ilmiah YAPIS Wamena** (Certificate Appreciation)
-- ✅ **BANDUNG** (Certificate Appreciation ON GOING)
-
+- ✅ **UNIVERSITAS NU SURABAYA** (Certificate Appreciation)
+- ✅ **UNIVERSITAS ISLAM LAMONGAN** (Certificate Appreciation)
 ---
 
 ### 📊 GitHub Activity & Stats
